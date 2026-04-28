@@ -1,6 +1,6 @@
 # Task Management Dashboard (Excel)
 ## Overview
-built an interactive Excel dashboard to track and analyse task progress across teams.
+Built an interactive Excel dashboard to track and analyse task progress across teams.
 ## Features
 - Task status tracking (Completes, In Progress, Not Started, Overdue)
 - Automated status using formulas(COUNTIF, IF, date logic)
